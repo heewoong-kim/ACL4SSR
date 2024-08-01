@@ -22,7 +22,7 @@ DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
 
 # Kiwoom
-# DOMAIN-SUFFIX,kiwoom.com
+DOMAIN-SUFFIX,kiwoom.com
 
 # Umeng
 DOMAIN,errlog.umeng.com
