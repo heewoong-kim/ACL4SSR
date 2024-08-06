@@ -1,5 +1,7 @@
 # 内容：Kakao Talk
 # 数量：9条
+DOMAIN-KEYWORD,kakao
+DOMAIN-KEYWORD,daum
 DOMAIN-SUFFIX,kakao.co.kr
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocdn.net
