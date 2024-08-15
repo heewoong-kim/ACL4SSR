@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+#LS증권
+DOMAIN-SUFFIX,ls-sec.co.kr
+
 # 케이뱅크
 DOMAIN-SUFFIX,kbanknow.com
 
