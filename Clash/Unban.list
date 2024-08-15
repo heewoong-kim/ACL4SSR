@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+# 케이뱅크
+DOMAIN-SUFFIX,kbanknow.com
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
