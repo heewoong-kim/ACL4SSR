@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+#K드라마
+DOMAIN,video.kdrama.pw
+
 #LS증권
 DOMAIN-SUFFIX,ls-sec.co.kr
 
