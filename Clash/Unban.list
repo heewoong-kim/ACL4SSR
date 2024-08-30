@@ -2,6 +2,8 @@
 
 #K드라마
 DOMAIN,video.kdrama.pw
+DOMAIN-SUFFIX,kdrama.pw
+
 
 #LS증권
 DOMAIN-SUFFIX,ls-sec.co.kr
