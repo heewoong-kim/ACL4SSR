@@ -1,5 +1,9 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+# 중국건설은행
+DOMAIN-SUFFIX,ccb.com
+
+
 #K드라마
 DOMAIN,video.kdrama.pw
 DOMAIN-SUFFIX,kdrama.pw
